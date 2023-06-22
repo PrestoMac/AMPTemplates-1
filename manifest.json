@@ -1,10 +1,10 @@
 {
-    "id": "ef88caa6-3008-4285-9112-0b50cbf35061",
+    "id": "4dfc3b1e-8272-4b46-a0a7-9a7f89188eab",
     "authors": [
-        "CubeCoders"
+        "Preston Michael"
     ],
-    "origin": "https://github.com/CubeCoders/AMPTemplates.git",
-    "url": "https://github.com/CubeCoders/AMPTemplates",
+    "origin": "https://github.com/PrestoMac/AMPTemplates-1.git",
+    "url": "https://github.com/PrestoMac/AMPTemplates-1",
     "imagefile": "",
-    "prefix": "CubeCoders"
+    "prefix": "PrestoMac"
 }
